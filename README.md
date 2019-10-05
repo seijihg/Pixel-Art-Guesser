@@ -5,5 +5,8 @@
 
 ![pixel art game menu](https://github.com/LawrenceYolland/Pixel-Art-Guesser/blob/master/front_end/src/images/menu.gif)
 
+Youtube Demo:
+https://youtu.be/EpTNLmfqxOI
+
 Credit:
 [Lawrence Yolland](https://github.com/LawrenceYolland) & [Le Ngo](https://github.com/seijihg)
